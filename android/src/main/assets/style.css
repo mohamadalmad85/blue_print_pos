@@ -1,0 +1,116 @@
+            @font-face {
+                font-family: hacen;
+                src: url(hacen.ttf);
+            }
+
+            @font-face {
+                font-family: cairo;
+                src: url(cairo.ttf);
+            }
+          body {
+              background: #ffffff;
+              width: 100%;
+              font-family: hacen;
+          }
+
+          .container {
+              max-width: 100%;
+              margin: auto;
+              background: white;
+               font-family: hacen;
+          }
+
+           p {
+              margin: 0px;
+              padding: 0px;
+              font-family: hacen;
+          }
+
+          hr {
+              border-top: 2px dashed black;
+               font-family: hacen;
+          }
+
+          .text-center {
+              text-align: center;
+               font-family: hacen;
+               color: #000000
+          }
+
+          .text-left {
+              text-align: left;
+               font-family: hacen;
+          }
+
+          .text-right {
+              text-align: right;
+               font-family: hacen;
+          }
+
+          .text-justify {
+              text-align: justify;
+               font-family: hacen;
+          }
+
+          .right {
+              float: right;
+                   font-family: hacen;
+          }
+
+          .left {
+              float: left;
+               font-family: hacen;
+          }
+
+          span {
+              color: black;
+              font-family: helvetica;
+               font-family: hacen;
+          }
+
+          .full-width {
+              width: 100%;
+               font-family: hacen;
+          }
+
+          .inline-block {
+              display: inline-block;
+               font-family: hacen;
+          }
+
+          .text-extra-large {
+              font-size: 3.2em;
+              display: inline-block;
+               font-family: hacen;
+          }
+
+          .text-large {
+              font-size: 2.6em;
+              display: inline-block;
+               font-family: hacen;
+          }
+
+          .text-medium {
+              font-size: 2.0em;
+              display: inline-block;
+               font-family: hacen;
+          }
+
+          .text-small {
+              font-size: 1.2em;
+              display: inline-block;
+               font-family: hacen;
+          }
+
+          .flex-container {
+                          display: flex;
+                          flex-direction: row;
+                               font-family: hacen;
+                           }
+
+           .flex-container > div {
+                      color: black;
+                      text-align: center;
+                      font-size: 14px;
+                           font-family: hacen;
+                                  }
