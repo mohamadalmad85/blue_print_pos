@@ -6,7 +6,7 @@ class TextStyleElement {
     this.paddingRight,
     this.paddingBottom,
     this.paddingLeft,
-    this.isBold = true,
+    this.isBold = false,
     this.isFullWidth = false,
     this.withBorderTop = false,
     this.withBorderRight = false,
